@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          测试react workflow 部署
+          测试react workflow 部署 🛎️
         </p>
         <a
           className="App-link"
